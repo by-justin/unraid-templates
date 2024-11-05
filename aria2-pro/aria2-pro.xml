@@ -30,8 +30,8 @@ License&#xD;
 </Overview>
   <Category>Downloaders:</Category>
   <WebUI>http://ariang.mayswind.net/latest/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/justin-himself/unraid-templates/master/aria2-pro/aria2-pro.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/justin-himself/unraid-templates/master/aria2-pro/aria2-pro.ico</Icon>
+  <TemplateURL>https://raw.githubusercontent.com/by-justin/unraid-templates/master/aria2-pro/aria2-pro.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/by-justin/unraid-templates/master/aria2-pro/aria2-pro.ico</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>

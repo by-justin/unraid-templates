@@ -18,8 +18,8 @@
 </Overview>
   <Category>Network:Other Network:Privacy</Category>
   <WebUI>http://[IP]:[PORT:7657]/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/justin-himself/unraid-templates/master/i2pplus/i2pplus.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/justin-himself/unraid-templates/master/i2pplus/i2pplus.png</Icon>
+  <TemplateURL>https://raw.githubusercontent.com/by-justin/unraid-templates/master/i2pplus/i2pplus.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/by-justin/unraid-templates/master/i2pplus/i2pplus.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
